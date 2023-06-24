@@ -1,0 +1,25 @@
+size(8).
+
+fixed_cell(1, 4, x).
+fixed_cell(1, 6, x).
+
+fixed_cell(2, 2, x).
+
+fixed_cell(3, 5, x).
+fixed_cell(3, 6, x).
+fixed_cell(3, 8, x).
+
+fixed_cell(4, 3, o).
+fixed_cell(4, 7, o).
+
+fixed_cell(5, 1, x).
+fixed_cell(5, 5, x).
+
+fixed_cell(6, 4, o).
+fixed_cell(6, 7, x).
+fixed_cell(6, 8, x).
+
+fixed_cell(7, 2, x).
+
+fixed_cell(8, 3, o).
+fixed_cell(8, 7, o).
